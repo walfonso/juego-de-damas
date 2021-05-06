@@ -1,0 +1,157 @@
+/* Hola de estilos */
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    margin: 0px;
+    background-color: #dddddd;
+  }
+  
+  #contenido {
+    height: auto;
+    width: 100%;
+    background-color: #dddddd;
+  }
+  
+  #fichero {
+    border: 5px solid #999999;
+    width: 480px;
+    margin: 0px auto;
+    position: relative;
+    margin-top: 30px;
+    border: radius 5px;
+  }
+  
+  #fichas {
+    height: 480px;
+  }
+  
+  .blancas {
+    background-color: #fff;
+  }
+  
+  .negras {
+    background-color: #000;
+  }
+  
+  .recuadro {
+    height: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    float: left;
+  }
+  
+  .encabezado {
+    display: flex;
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0px 15px;
+  }
+  
+  h1 {
+    font-size: 22px;
+    color: #fff;
+    padding: 16px 0px;
+    margin: 0px;
+  }
+  
+  .menu {
+    background-color: #d4707a;
+    display: flex;
+  }
+  
+  .menu .navegacion {
+    display: inline-flex;
+    list-style: none;
+    color: #fff !important;
+    padding: 4px;
+  }
+  
+  .barranav {
+    width: 1140px;
+    margin: 0px auto;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .barranav ul {
+    display: flex;
+    list-style: none;
+    padding: 7px 15px;
+  }
+  
+  h1 a {
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  li a {
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px 15px 16px 12px;
+    text-transform: uppercase;
+  }
+  
+  .barranav ul li a {
+    padding: 15px;
+    text-decoration: none;
+    padding: 16px 15px 16px 12px;
+    text-transform: none;
+    color: #1e5096;
+    font-size: 14px;
+  }
+  
+  .barranav ul li {
+    color: #777 !important;
+    font-size: 14px;
+  }
+  
+  #boton {
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    background: -moz-linear-gradient(center top, #57aeea, #3d94d1) repeat scroll 0
+      0 transparent;
+    background: -webkit-gradient(
+      linear,
+      center bottom,
+      center top,
+      from(#3d94d1),
+      to(#57aeea)
+    );
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#57aeea', EndColorStr='#3d94d1');
+    background-color: lightBlue;
+    display: inline-block;
+    font-size: 21px;
+    margin-top: 20px;
+    padding: 10px 45px;
+    vertical-align: middle;
+    font-family: Arial;
+    color: #fff;
+    border: 1px solid #84c5f3;
+    text-shadow: 0 0 3px #333333;
+    cursor: pointer;
+    -moz-box-shadow: 0 0 8px 1px #888888;
+    -webkit-box-shadow: 0 0 8px 1px #888888;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  
+  .cntBoton {
+    width: 490px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .parrafo{
+    margin: 20px 0 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #efefef;
+  
+  }
+  
