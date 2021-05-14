@@ -9,6 +9,10 @@ del juego [Mini Damas](https://www.minidamas.com/) con el objetivo de aprender y
 - CSS
 - Javascript
 
+## Vista Online
+
+Visualiza en [GitHub Pages](https://walfonso.github.io/juego-de-damas/).
+
 ## License & copyright
 Walter Alfonso
 
